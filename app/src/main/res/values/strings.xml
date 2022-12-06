@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Network_Communication_Exercise3</string>
+    <string name="covid_cases_in_italy_today">Covid cases in Italy today</string>
+    <string name="new_covid_casses_in_italy_today_d">New covid cases today: %d</string>
+    <string name="active_covid_cases_in_italy_today_d">Active covid cases today: %d</string>
+    <string name="new_critical_cases_in_italy_today_d">New critical cases in Italy today: %d</string>
+    <string name="total_cases_in_italy_today_d">Total cases today: %d</string>
+    <string name="recovered_cases_in_italy_today_d">Recovered cases today: %d</string>
+</resources>

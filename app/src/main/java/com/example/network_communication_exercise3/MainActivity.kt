@@ -55,9 +55,9 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         val view = binding.root
         setContentView(view)
-
-        retrieveCovidCasesDetails()
         logging.level = HttpLoggingInterceptor.Level.BODY
+        retrieveCovidCasesDetails()
+
     }
 
     private fun setCovidDetails(covidResult: CovidData) {
